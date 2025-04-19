@@ -1,0 +1,8 @@
+num_filters: 64
+activation_function: Mish
+filter_growth: 1.2
+kernel_size: 3
+batch_norm: true
+data_augmentation: true
+dropout: 0.5
+epochs: 10

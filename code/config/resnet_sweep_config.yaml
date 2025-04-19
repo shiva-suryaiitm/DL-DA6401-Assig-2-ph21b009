@@ -1,0 +1,21 @@
+method: bayes  # or 'grid', 'bayes'
+metric:
+  name: val_accuracy
+  goal: maximize
+
+parameters:
+  
+  dense_hidden_size:
+    values: [64, 128, 256]
+
+  activation_function:
+    values: [ReLU, GELU, SiLU, Mish, leaky_relu]
+    
+  data_augmentation:
+    values: [True, False]
+    
+  dropout:
+    values: [0.25, 0.5]
+  
+  pretrained:
+    values: [True]

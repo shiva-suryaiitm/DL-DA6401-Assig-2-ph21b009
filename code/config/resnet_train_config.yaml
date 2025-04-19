@@ -1,0 +1,6 @@
+dense_hidden_size: 2
+activation_function: Mish
+data_augmentation: True
+dropout: 0.5
+pretrained: True
+epochs : 1
