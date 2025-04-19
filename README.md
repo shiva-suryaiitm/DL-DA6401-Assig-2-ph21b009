@@ -1,6 +1,6 @@
 # DL-DA6401-Assig-2-ph21b009
 # Name : ShivaSurya ; Roll no : PH21B009
-
+# [Wandb link 🔗 ](https://wandb.ai/shivasurya-iit-madras/DA6401-assig-2/reports/DA6401-Assignment-2-ShivaSurya-PH21B009---VmlldzoxMjM1MDY0NA?accessToken=kl4vaibxogj4cp1752n1cc2rily5w81o51b61otr6wrtaznfsmx56ta9zzlj6blb)
 # iNaturalist CNN/ResNet Training Pipeline
 
 This repository contains PyTorch code for training custom and ResNet-based CNN models on the iNaturalist dataset. The code is modular, supporting flexible model configuration, data augmentation, and training with learning rate scheduling.
@@ -68,7 +68,6 @@ project-root/
   Project documentation and usage instructions.
 
 ---
-
 
 ## File Overview
 
